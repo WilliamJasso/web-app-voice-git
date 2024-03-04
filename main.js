@@ -1,4 +1,4 @@
-
+//Comentario
 document.addEventListener('DOMContentLoaded', function () {
     const voiceBtn = document.getElementById('voiceBtn');
     const resultDiv = document.getElementById('result');
